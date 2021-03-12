@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (5.4.1)
+  - JSSAlertView (5.0.2)
+  - SwiftyJSON (5.0.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.2)
+  - JSSAlertView
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - JSSAlertView
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 2291f7d21ca607c491dd17642e5d40fdcda0e65c
+  JSSAlertView: 18345e37d8295827428c12b773b6d75d0dfd0b28
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+
+PODFILE CHECKSUM: a58de564eb172cfa1aeb7494a86c3b4846f56ac9
+
+COCOAPODS: 1.10.1
